@@ -1,6 +1,6 @@
 # ![SurfBoard Logo](https://www.surfboard.finance/assets/images/home/icon_logo.png) SurfBoard-FrontEnd-Community
 
-The surfboard front end is developped with Vue 3 in Vite.
+The surfboard front end is developed with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
